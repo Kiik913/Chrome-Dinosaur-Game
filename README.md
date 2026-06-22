@@ -25,7 +25,7 @@ A standalone version of the famous Chrome Dino Game built using HTML, CSS, and J
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/chrome-dino-game.git
+git clone https://github.com/Kiik913/Chrome-Dinosaur-Game.git
 ```
 
 2. Open the project folder.
