@@ -55,9 +55,13 @@ chrome-dino-game/
 - JavaScript (ES6)
 - Canvas API
 
-## Screenshots
+## 🌐 Demo
 
-Add screenshots of your game here.
+You can try Nexura OS right now by opening the `Nexura OS.html` file in your browser, or by hosting it on any static server (GitHub Pages, Netlify, etc.).
+
+file:///C:/Users/HP/Google_Dino_Offline.html
+
+---
 
 ## Future Improvements
 
