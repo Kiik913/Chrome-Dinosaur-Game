@@ -57,7 +57,7 @@ chrome-dino-game/
 
 ## 🌐 Demo
 
-You can try Nexura OS right now by opening the `Nexura OS.html` file in your browser, or by hosting it on any static server (GitHub Pages, Netlify, etc.).
+You can try Nexura OS right now by opening the `Nexura OS.html` file in your browser, or by hosting it on any static server (GitHub Pages, Netlify, etc.).Copy it and pase in the we using url
 
 file:///C:/Users/HP/Google_Dino_Offline.html
 
